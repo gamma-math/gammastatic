@@ -16,6 +16,5 @@ GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medle
 ### Vedtægter
 Du kan finde GamMas vedtægter her: **[Vedtægter](vedtaegter-gamma.pdf)**.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Kontakt
+Hvis du vil i kontakt med GamMas bestyrelse kan det foregå ved at skrive til:
