@@ -17,4 +17,4 @@ GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medle
 Du kan finde GamMas vedtægter her: **[Vedtægter](vedtaegter-gamma.pdf)**.
 
 ### Kontakt
-Hvis du vil i kontakt med GamMas bestyrelse kan det foregå ved at skrive til: (mail.png)
+Hvis du vil i kontakt med GamMas bestyrelse kan det foregå ved at skrive til: ![Image](mail.png)
