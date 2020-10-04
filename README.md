@@ -6,12 +6,12 @@ Vi er i færd med at omlægge vores hjemmeside, og denne side er derfor kun midl
 
 ### Medlemskab
 
-Hvis du ønsker at blive medlem af GamMa foregår det ved dels at udfylde denne formular: [Bliv medlem](https://docs.google.com/forms/d/e/1FAIpQLSfYyFzM_6uXeDLiScSeR8CdiAP_QSb6BnYEojyvkU-Cj-LGGA/viewform?usp=sf_link)
+Hvis du ønsker at blive medlem af GamMa foregår det ved dels at udfylde denne formular: **[Bliv medlem](https://docs.google.com/forms/d/e/1FAIpQLSfYyFzM_6uXeDLiScSeR8CdiAP_QSb6BnYEojyvkU-Cj-LGGA/viewform?usp=sf_link)**
 
 Du skal dernæst tage kontakt til GamMas bestyrelse via den mail, du modtager ovenpå udfyldelse af formularen.
 
 ### Facebook
-GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medlemmer til at benytte og engagere sig i: [Facebook](https://www.facebook.com/groups/gammamath/).
+GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medlemmer til at benytte og engagere sig i: **[Facebook](https://www.facebook.com/groups/gammamath/)**.
 
 
 ### Support or Contact
