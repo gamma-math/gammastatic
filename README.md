@@ -13,6 +13,8 @@ Du skal dernæst tage kontakt til GamMas bestyrelse via den mail, du modtager ov
 ### Facebook
 GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medlemmer til at benytte og engagere sig i: **[Facebook](https://www.facebook.com/groups/gammamath/)**.
 
+### Vedtægter
+Du kan finde GamMas vedtægter her: **[Vedtægter](vedtaegter-gamma.pdf)**.
 
 ### Support or Contact
 
