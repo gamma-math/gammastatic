@@ -1,36 +1,17 @@
 ## Alumneforeningen GamMa
 
-You can use the [editor on GitHub](https://github.com/gamma-math/gammastatic/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Velkommen til Almuneforeningen GamMas hjemmeside. GamMa er en alumneforeningen for gamle matematikere, der har en akademisk grad fra Institut for Matematise Fag, Københavns Universitet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vi er i færd med at omlægge vores hjemmeside, og denne side er derfor kun midlertidig.
 
-### Markdown
+### Medlemskab
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hvis du ønsker at blive medlem af GamMa foregår det ved dels at udfylde denne formular: [Bliv medlem](https://docs.google.com/forms/d/e/1FAIpQLSfYyFzM_6uXeDLiScSeR8CdiAP_QSb6BnYEojyvkU-Cj-LGGA/viewform?usp=sf_link)
+Du skal dernæst tage kontakt til GamMas bestyrelse via den mail, du modtager ovenpå udfyldelse af formularen.
 
-```markdown
-Syntax highlighted code block
+### Facebook
+GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medlemmer til at benytte og engagere sig i: [Facebook](https://www.facebook.com/groups/gammamath/).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gamma-math/gammastatic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
