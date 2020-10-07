@@ -1,6 +1,6 @@
 ## Alumneforeningen GamMa
 
-Velkommen til Almuneforeningen GamMas hjemmeside. GamMa er en alumneforening for gamle matematikere, der har en akademisk grad fra Institut for Matematise Fag, Københavns Universitet.
+Velkommen til Almuneforeningen GamMas hjemmeside. GamMa er en alumneforening for **Gam**le **Ma**tematikere, der har en akademisk grad fra Institut for Matematise Fag, Københavns Universitet.
 
 Vi er i færd med at omlægge vores hjemmeside, og denne side er derfor kun midlertidig.
 
