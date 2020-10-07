@@ -8,7 +8,7 @@ Vi er i færd med at omlægge vores hjemmeside, og denne side er derfor kun midl
 
 Hvis du ønsker at blive medlem af GamMa foregår det ved først at udfylde denne formular: **[Bliv medlem](https://docs.google.com/forms/d/e/1FAIpQLSfYyFzM_6uXeDLiScSeR8CdiAP_QSb6BnYEojyvkU-Cj-LGGA/viewform?usp=sf_link)**.
 
-Du skal dernæst tage kontakt til GamMas bestyrelse via den mail, du modtager ovenpå udfyldelse af formularen. Generalforsamlingen fastsatte september 2020 årets kontingent til at være 100 kroner for dimittender og 0 kroner for kandidatstuderende.
+Du skal dernæst tage kontakt til GamMas bestyrelse via den mail, du modtager ovenpå udfyldelse af formularen. Generalforsamlingen fastsatte september 2020 årets kontingent til at være **100 kroner for dimittender** og **0 kroner for kandidatstuderende**.
 
 ### Facebook
 GamMa er tilstede på Facebook via denne Facebook-gruppe, som vi opfordrer medlemmer til at benytte og engagere sig i: **[Facebook](https://www.facebook.com/groups/gammamath/)**.
